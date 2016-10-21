@@ -1,0 +1,5 @@
+1. 
+Q. What happens when you initialize a repository? Why do you need to do it?
+A. it sets up a hidden directory that can add commits
+A. Without initializing a repository you can't add commits
+
