@@ -3,3 +3,11 @@ Q. What happens when you initialize a repository? Why do you need to do it?
 A. it sets up a hidden directory that can add commits
 A. Without initializing a repository you can't add commits
 
+2.
+Q. How is the staging area different from the working directory and the repository? 
+   What value do you think it offers?
+A. the staging area a holding area for the files ready to receive commits, the working directory
+   is where I am currently working from, and repository is where all the commits are stored
+A. the value it offers is that allows me to separate different files I am working on with a separate
+   history of commits.
+
